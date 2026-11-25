@@ -1,4 +1,4 @@
-int PINO_BOTAO_PE    = 24;   // push button sob o pé, no bloco de partida
+int PINO_BOTAO_PE    = 24;   // push button pressionado
 int PINO_BUZZER      = 22;   // buzzer (o "tiro de partida")
 int PINO_LED_PRONTO  = 23;   // LED  
 int PINO_BOTAO_JUIZ  = 25;   // botão que o juiz aperta pra iniciar o teste
